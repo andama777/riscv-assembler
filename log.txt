@@ -41,3 +41,6 @@ riscv32-unknown-elf-gcc calc.c -o calc -O2
 O2は最適化レベル -O3 -Ofastなどがある
 エミュとかに食わせてみないと分からないな
 
+rv32g = rv32 i m f a
+rv32gc = rv32imfac
+
